@@ -20,6 +20,10 @@ Feel free to read the [full blog post](https://thomasvanlaere.com/posts/2021/06/
 
 ## Prerequisites
 
+- The "_Containers feature_" should be enabled on your Windows environment.
+  - More information on how to do this can be found [here](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/set-up-environment?tabs=Windows-Server).
+- Ensure that base image "mcr.microsoft.com/windows/servercore:ltsc2019" is available. 
+
 All samples are known to function with:
 
 - PowerShell 5.1+
