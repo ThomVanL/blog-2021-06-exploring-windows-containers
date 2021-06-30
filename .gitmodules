@@ -1,0 +1,3 @@
+[submodule "samples/hcs/csharp/Vendor/microsoft/dotnet-computevirtualization"]
+	path = samples/hcs/csharp/Vendor/microsoft/dotnet-computevirtualization
+	url = https://github.com/microsoft/dotnet-computevirtualization
